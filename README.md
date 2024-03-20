@@ -25,9 +25,9 @@ python可视化无论是本科生（各种实验报告），还是硕博（处�
 
 
 作者目前的各个包版本为:
-python                    3.8.18
-matplotlib                3.7.5
-matplotlib-inline         0.1.6
-plotly                    5.19.0
-openpyxl                  3.1.2
-seaborn                   0.13.2
+- python                    3.8.18
+- matplotlib                3.7.5
+- matplotlib-inline         0.1.6
+- plotly                    5.19.0
+- openpyxl                  3.1.2
+- seaborn                   0.13.2
